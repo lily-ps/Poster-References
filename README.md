@@ -1,0 +1,7 @@
+References
+[1] Brooker, E.E., Midgley, G., Burns, N., Trotman, C.E., Gregory, A. & Hopkins, C.R. (2025). Defining marine rewilding can help guide theory and practice in marine conservation. Communications Earth & Environment, 6, 241. doi:10.1038/s43247-025-02155-x.
+[2] Carver, S. et al. (2021). Guiding principles for rewilding. Conservation Biology, 35(6), 1882–1893. doi:10.1111/cobi.13730.
+[3] Quintana, C.O., Méléder, V., Sousa, A.I., Drakou, E.G., van der Wal, D., Krause-Jensen, D. & Andreu-Boussut, V. (2025). Editorial: Coastal rewilding as a nature-based solution. Frontiers in Marine Science, 11, 1547177. doi:10.3389/fmars.2024.1547177.
+[4] Seger, K.D., Sousa-Lima, R., Schmitter-Soto, J.J. & Urban, E.R. Jr. (2021). Editorial: Before-After Control-Impact (BACI) Studies in the Ocean. Frontiers in Marine Science, 8, 787959. doi:10.3389/fmars.2021.787959.
+[5] Sakoe, H., & Chiba, S. (1978). Dynamic programming algorithm optimization for spoken word recognition. IEEE Transactions on Acoustics, Speech, and Signal Processing, 26(1), 43–49. https://doi.org/10.1109/TASSP.1978.1163055
+[6] Andreu-Boussut, V. & Chadenas, C. (2025). Coastal Protected Areas in the Anthropocene: An inventory of reconnection projects to the sea and alternative management strategies in Europe (RECOSEA) [Dataset]. UMR6554 LETG CNRS–INDIGEO. doi:10.48579/PRO/APKUIT.
